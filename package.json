@@ -1,0 +1,17 @@
+{
+  "name": "sketch_gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-filelog": "^0.4.1",
+    "gulp-imagemin": "^3.0.1",
+    "gulp-sketch": "^1.0.3"
+  }
+}
